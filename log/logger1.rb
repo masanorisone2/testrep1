@@ -2,8 +2,7 @@
 require 'pry'
 require './CsvPlugin'
 
-logger
-
+inherit
 begin
 
   def aaa
