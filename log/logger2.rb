@@ -2,4 +2,4 @@
 require 'pry'
 require './CsvPlugin'
 
-plugin
+new Logger
