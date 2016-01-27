@@ -6,5 +6,9 @@ c = CsvPlugin.new("zzzz")
 
 binding.pry
 
+binding.pry
+binding.pry
+binding.pry
+
 c.run()
 c.showMethod()
