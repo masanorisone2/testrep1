@@ -8,6 +8,9 @@ begin
 
   def aaa
     puts 'loooooooooooooooooog'
+    puts 'loooooooooooooooooog'
+    puts 'loooooooooooooooooog'
+    puts 'loooooooooooooooooog'
   end
 
 end
