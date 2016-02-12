@@ -3,3 +3,5 @@ require 'pry'
 require './CsvPlugin'
 
 aaaaaa
+
+# 新たに修正
