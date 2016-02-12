@@ -5,3 +5,6 @@ require './CsvPlugin'
 aaaaaa
 
 # 新たに修正
+master
+master
+
