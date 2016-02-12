@@ -19,3 +19,4 @@ binding.pry
 c.run()
 c.showMethod()
 # 新たに修正
+# 新たに修正
