@@ -7,6 +7,8 @@ c = CsvPlugin.new("zzzz")
 binding.pry
 
 binding.pry
+
+# 行を追加
 binding.pry
 binding.pry
 
