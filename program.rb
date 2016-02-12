@@ -10,7 +10,7 @@ binding.pry
 
 # 行を追加
    # ブランチで作業
-   # ブランチを変更
+   # ブランチを変更・マージ後変更
 binding.pry
 binding.pry
 
