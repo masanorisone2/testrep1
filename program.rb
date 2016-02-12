@@ -9,6 +9,7 @@ binding.pry
 binding.pry
 
 # 行を追加
+   # マスターで作業
 binding.pry
 binding.pry
 
