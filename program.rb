@@ -14,6 +14,7 @@ binding.pry
    # ブランチを変更
 binding.pry
 binding.pry
+# 別の行を追加
 
 c.run()
 c.showMethod()
